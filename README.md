@@ -9,6 +9,3 @@ If you use the code for your research paper, please cite the following paper:
   <a href="https://github.com/AIS-Bonn/LocDepVideoPrediction">[CODE]</a><br>
   Accepted for 27th International Conference on Artificial Neural Networks (ICANN), Rhodes, Greece, to appear October 2018.<br><b> *: Both authors contributed equally to this work.</b><br>
 </p>
-
-Tensorboard log for VLN experiments:
-https://drive.google.com/file/d/1O-bEpeq37d7S-G869pePGPVidxN8Ya4T/view?usp=sharing
